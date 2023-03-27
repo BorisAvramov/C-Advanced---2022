@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Lab\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Lab\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Lab\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Lab\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Lab\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Lab\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Lab\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Lab\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Lab\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Lab\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Lab\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.pdb

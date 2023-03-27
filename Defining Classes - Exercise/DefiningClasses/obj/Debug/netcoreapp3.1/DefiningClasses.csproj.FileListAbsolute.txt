@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.pdb

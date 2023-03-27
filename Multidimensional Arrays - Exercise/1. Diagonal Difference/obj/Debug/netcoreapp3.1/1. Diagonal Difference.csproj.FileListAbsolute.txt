@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.pdb

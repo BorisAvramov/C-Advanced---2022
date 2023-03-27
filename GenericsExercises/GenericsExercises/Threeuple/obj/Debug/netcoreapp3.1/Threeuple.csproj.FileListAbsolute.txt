@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.genruntimeconfig.cache

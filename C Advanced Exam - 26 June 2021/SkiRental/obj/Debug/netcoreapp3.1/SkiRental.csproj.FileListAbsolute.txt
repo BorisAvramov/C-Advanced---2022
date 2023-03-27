@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 26 June 2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 26 June 2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 26 June 2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 26 June 2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 26 June 2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 26 June 2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.genruntimeconfig.cache

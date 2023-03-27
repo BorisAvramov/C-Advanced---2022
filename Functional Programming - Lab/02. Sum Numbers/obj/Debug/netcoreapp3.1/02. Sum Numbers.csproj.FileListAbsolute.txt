@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.pdb

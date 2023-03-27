@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\Froggy\bin\Debug\netcoreapp3.1\Froggy.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\Froggy\bin\Debug\netcoreapp3.1\Froggy.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\Froggy\bin\Debug\netcoreapp3.1\Froggy.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\Froggy\bin\Debug\netcoreapp3.1\Froggy.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\Froggy\obj\Debug\netcoreapp3.1\Froggy.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\Froggy\obj\Debug\netcoreapp3.1\Froggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\Froggy\obj\Debug\netcoreapp3.1\Froggy.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\Froggy\obj\Debug\netcoreapp3.1\Froggy.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\Froggy\obj\Debug\netcoreapp3.1\Froggy.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\Froggy\obj\Debug\netcoreapp3.1\Froggy.genruntimeconfig.cache

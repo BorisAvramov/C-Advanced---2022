@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.pdb

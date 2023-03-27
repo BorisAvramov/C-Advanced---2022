@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 14 April 2021\02.Super Mario\bin\Debug\netcoreapp3.1\02.Super Mario.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 14 April 2021\02.Super Mario\bin\Debug\netcoreapp3.1\02.Super Mario.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 14 April 2021\02.Super Mario\bin\Debug\netcoreapp3.1\02.Super Mario.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 14 April 2021\02.Super Mario\bin\Debug\netcoreapp3.1\02.Super Mario.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 14 April 2021\02.Super Mario\bin\Debug\netcoreapp3.1\02.Super Mario.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 14 April 2021\02.Super Mario\bin\Debug\netcoreapp3.1\02.Super Mario.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.genruntimeconfig.cache

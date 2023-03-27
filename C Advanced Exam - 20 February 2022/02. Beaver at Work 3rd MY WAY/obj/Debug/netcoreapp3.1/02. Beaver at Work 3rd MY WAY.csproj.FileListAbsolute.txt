@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work 3rd MY WAY\bin\Debug\netcoreapp3.1\02. Beaver at Work 3rd MY WAY.exe
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work 3rd MY WAY\bin\Debug\netcoreapp3.1\02. Beaver at Work 3rd MY WAY.deps.json
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work 3rd MY WAY\bin\Debug\netcoreapp3.1\02. Beaver at Work 3rd MY WAY.runtimeconfig.json
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work 3rd MY WAY\bin\Debug\netcoreapp3.1\02. Beaver at Work 3rd MY WAY.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work 3rd MY WAY\bin\Debug\netcoreapp3.1\02. Beaver at Work 3rd MY WAY.dll
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work 3rd MY WAY\bin\Debug\netcoreapp3.1\02. Beaver at Work 3rd MY WAY.pdb
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work 3rd MY WAY\obj\Debug\netcoreapp3.1\02. Beaver at Work 3rd MY WAY.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work 3rd MY WAY\obj\Debug\netcoreapp3.1\02. Beaver at Work 3rd MY WAY.AssemblyInfo.cs
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work 3rd MY WAY\obj\Debug\netcoreapp3.1\02. Beaver at Work 3rd MY WAY.dll
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work 3rd MY WAY\obj\Debug\netcoreapp3.1\02. Beaver at Work 3rd MY WAY.pdb
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work 3rd MY WAY\obj\Debug\netcoreapp3.1\02. Beaver at Work 3rd MY WAY.csprojAssemblyReference.cache

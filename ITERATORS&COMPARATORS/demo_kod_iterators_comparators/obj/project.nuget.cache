@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yv66WIFWmsqbBOT/nu3q5XAXSzp9bxg/tr9nl60dY7EKqM9f/mXZxWKwNS8298DvaBn3GMfoEMrTD7ALlRsnNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\C# Advanced - януари 2022\\ITERATORS&COMPARATORS\\demo_kod_iterators_comparators\\IteratorsAndComparatorsDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

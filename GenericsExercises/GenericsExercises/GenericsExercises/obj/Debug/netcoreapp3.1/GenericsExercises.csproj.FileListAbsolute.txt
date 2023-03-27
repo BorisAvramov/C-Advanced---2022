@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\GenericsExercises\bin\Debug\netcoreapp3.1\GenericsExercises.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\GenericsExercises\bin\Debug\netcoreapp3.1\GenericsExercises.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\GenericsExercises\bin\Debug\netcoreapp3.1\GenericsExercises.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\GenericsExercises\bin\Debug\netcoreapp3.1\GenericsExercises.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\GenericsExercises\bin\Debug\netcoreapp3.1\GenericsExercises.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\GenericsExercises\bin\Debug\netcoreapp3.1\GenericsExercises.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\GenericsExercises\obj\Debug\netcoreapp3.1\GenericsExercises.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\GenericsExercises\obj\Debug\netcoreapp3.1\GenericsExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\GenericsExercises\obj\Debug\netcoreapp3.1\GenericsExercises.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\GenericsExercises\obj\Debug\netcoreapp3.1\GenericsExercises.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\GenericsExercises\obj\Debug\netcoreapp3.1\GenericsExercises.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\GenericsExercises\obj\Debug\netcoreapp3.1\GenericsExercises.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\GenericsExercises\obj\Debug\netcoreapp3.1\GenericsExercises.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\GenericsExercises\obj\Debug\netcoreapp3.1\GenericsExercises.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.pdb

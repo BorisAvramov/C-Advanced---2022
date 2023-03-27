@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\02. The Battle of The Five Armies\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\02. The Battle of The Five Armies\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\02. The Battle of The Five Armies\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\02. The Battle of The Five Armies\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\02. The Battle of The Five Armies\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\02. The Battle of The Five Armies\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.genruntimeconfig.cache

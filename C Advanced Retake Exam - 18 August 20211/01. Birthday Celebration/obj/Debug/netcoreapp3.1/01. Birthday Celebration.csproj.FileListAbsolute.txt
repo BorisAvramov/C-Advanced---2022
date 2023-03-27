@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\01. Birthday Celebration\bin\Debug\netcoreapp3.1\01. Birthday Celebration.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\01. Birthday Celebration\bin\Debug\netcoreapp3.1\01. Birthday Celebration.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\01. Birthday Celebration\bin\Debug\netcoreapp3.1\01. Birthday Celebration.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\01. Birthday Celebration\bin\Debug\netcoreapp3.1\01. Birthday Celebration.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\01. Birthday Celebration\bin\Debug\netcoreapp3.1\01. Birthday Celebration.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\01. Birthday Celebration\bin\Debug\netcoreapp3.1\01. Birthday Celebration.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.genruntimeconfig.cache

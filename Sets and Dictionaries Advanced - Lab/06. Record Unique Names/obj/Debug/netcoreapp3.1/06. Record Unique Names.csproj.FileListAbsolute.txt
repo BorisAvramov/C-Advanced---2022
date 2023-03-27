@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.pdb

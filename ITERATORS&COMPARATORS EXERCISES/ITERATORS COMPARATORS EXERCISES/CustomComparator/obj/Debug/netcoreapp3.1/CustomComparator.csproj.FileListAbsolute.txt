@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.genruntimeconfig.cache

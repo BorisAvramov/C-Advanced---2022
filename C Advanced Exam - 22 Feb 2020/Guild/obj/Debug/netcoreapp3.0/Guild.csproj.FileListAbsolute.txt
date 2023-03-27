@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\03. The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\03. The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\03. The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\03. The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\03. The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\03. The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache

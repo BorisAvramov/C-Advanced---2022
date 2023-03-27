@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.genruntimeconfig.cache

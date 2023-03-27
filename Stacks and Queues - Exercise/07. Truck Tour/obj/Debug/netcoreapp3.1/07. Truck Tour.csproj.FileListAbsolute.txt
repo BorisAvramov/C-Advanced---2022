@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.pdb

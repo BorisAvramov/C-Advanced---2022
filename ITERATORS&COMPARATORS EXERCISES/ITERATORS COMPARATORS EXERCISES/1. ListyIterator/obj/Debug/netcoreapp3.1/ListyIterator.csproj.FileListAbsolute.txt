@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\1. ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\1. ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\1. ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\1. ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\1. ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\1. ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\1. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\1. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\1. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\1. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\1. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\1. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\1. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\1. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.genruntimeconfig.cache

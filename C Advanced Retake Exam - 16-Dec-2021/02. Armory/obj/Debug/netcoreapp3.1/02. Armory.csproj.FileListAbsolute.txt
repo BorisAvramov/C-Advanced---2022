@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.exe
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.deps.json
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.runtimeconfig.json
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.dll
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.pdb
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.AssemblyInfo.cs
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.dll
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.pdb

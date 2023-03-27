@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache

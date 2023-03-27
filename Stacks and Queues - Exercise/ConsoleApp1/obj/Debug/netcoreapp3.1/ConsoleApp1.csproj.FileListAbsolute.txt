@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

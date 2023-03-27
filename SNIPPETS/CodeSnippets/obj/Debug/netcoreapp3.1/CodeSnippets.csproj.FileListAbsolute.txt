@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\CodeSnippets\bin\Debug\netcoreapp3.1\CodeSnippets.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\CodeSnippets\bin\Debug\netcoreapp3.1\CodeSnippets.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\CodeSnippets\bin\Debug\netcoreapp3.1\CodeSnippets.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\CodeSnippets\bin\Debug\netcoreapp3.1\CodeSnippets.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\CodeSnippets\bin\Debug\netcoreapp3.1\CodeSnippets.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\CodeSnippets\bin\Debug\netcoreapp3.1\CodeSnippets.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\CodeSnippets\obj\Debug\netcoreapp3.1\CodeSnippets.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\CodeSnippets\obj\Debug\netcoreapp3.1\CodeSnippets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\CodeSnippets\obj\Debug\netcoreapp3.1\CodeSnippets.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\CodeSnippets\obj\Debug\netcoreapp3.1\CodeSnippets.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\CodeSnippets\obj\Debug\netcoreapp3.1\CodeSnippets.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\CodeSnippets\obj\Debug\netcoreapp3.1\CodeSnippets.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\CodeSnippets\obj\Debug\netcoreapp3.1\CodeSnippets.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\CodeSnippets\obj\Debug\netcoreapp3.1\CodeSnippets.genruntimeconfig.cache

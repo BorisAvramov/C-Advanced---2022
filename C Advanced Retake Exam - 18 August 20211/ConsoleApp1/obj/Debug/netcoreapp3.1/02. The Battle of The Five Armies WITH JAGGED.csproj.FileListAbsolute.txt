@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\ConsoleApp1\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies WITH JAGGED.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\ConsoleApp1\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies WITH JAGGED.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\ConsoleApp1\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies WITH JAGGED.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\ConsoleApp1\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies WITH JAGGED.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\ConsoleApp1\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies WITH JAGGED.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\ConsoleApp1\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies WITH JAGGED.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\ConsoleApp1\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies WITH JAGGED.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\ConsoleApp1\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies WITH JAGGED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\ConsoleApp1\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies WITH JAGGED.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\ConsoleApp1\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies WITH JAGGED.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\ConsoleApp1\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies WITH JAGGED.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\ConsoleApp1\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies WITH JAGGED.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\ConsoleApp1\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies WITH JAGGED.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\ConsoleApp1\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies WITH JAGGED.genruntimeconfig.cache

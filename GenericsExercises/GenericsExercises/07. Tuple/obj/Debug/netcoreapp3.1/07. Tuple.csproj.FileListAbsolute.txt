@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\07. Tuple\bin\Debug\netcoreapp3.1\07. Tuple.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\07. Tuple\bin\Debug\netcoreapp3.1\07. Tuple.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\07. Tuple\bin\Debug\netcoreapp3.1\07. Tuple.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\07. Tuple\bin\Debug\netcoreapp3.1\07. Tuple.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\07. Tuple\bin\Debug\netcoreapp3.1\07. Tuple.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\07. Tuple\bin\Debug\netcoreapp3.1\07. Tuple.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\GenericsExercises\GenericsExercises\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.genruntimeconfig.cache

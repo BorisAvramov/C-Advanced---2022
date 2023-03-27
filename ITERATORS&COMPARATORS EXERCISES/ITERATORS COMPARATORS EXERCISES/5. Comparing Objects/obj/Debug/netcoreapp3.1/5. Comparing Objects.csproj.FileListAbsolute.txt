@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\5. Comparing Objects\bin\Debug\netcoreapp3.1\5. Comparing Objects.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\5. Comparing Objects\bin\Debug\netcoreapp3.1\5. Comparing Objects.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\5. Comparing Objects\bin\Debug\netcoreapp3.1\5. Comparing Objects.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\5. Comparing Objects\bin\Debug\netcoreapp3.1\5. Comparing Objects.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\5. Comparing Objects\bin\Debug\netcoreapp3.1\5. Comparing Objects.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\5. Comparing Objects\bin\Debug\netcoreapp3.1\5. Comparing Objects.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\5. Comparing Objects\obj\Debug\netcoreapp3.1\5. Comparing Objects.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\5. Comparing Objects\obj\Debug\netcoreapp3.1\5. Comparing Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\5. Comparing Objects\obj\Debug\netcoreapp3.1\5. Comparing Objects.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\5. Comparing Objects\obj\Debug\netcoreapp3.1\5. Comparing Objects.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\5. Comparing Objects\obj\Debug\netcoreapp3.1\5. Comparing Objects.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\5. Comparing Objects\obj\Debug\netcoreapp3.1\5. Comparing Objects.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\5. Comparing Objects\obj\Debug\netcoreapp3.1\5. Comparing Objects.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\5. Comparing Objects\obj\Debug\netcoreapp3.1\5. Comparing Objects.genruntimeconfig.cache

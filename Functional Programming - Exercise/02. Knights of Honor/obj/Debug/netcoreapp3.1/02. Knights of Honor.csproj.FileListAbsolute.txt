@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\netcoreapp3.1\07. Parking Lot.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\netcoreapp3.1\07. Parking Lot.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\netcoreapp3.1\07. Parking Lot.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\netcoreapp3.1\07. Parking Lot.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\netcoreapp3.1\07. Parking Lot.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\netcoreapp3.1\07. Parking Lot.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\netcoreapp3.1\07. Parking Lot.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\netcoreapp3.1\07. Parking Lot.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\netcoreapp3.1\07. Parking Lot.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\netcoreapp3.1\07. Parking Lot.pdb

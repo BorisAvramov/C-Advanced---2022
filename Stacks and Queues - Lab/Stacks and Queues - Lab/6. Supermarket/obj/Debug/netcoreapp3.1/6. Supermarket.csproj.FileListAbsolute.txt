@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.pdb

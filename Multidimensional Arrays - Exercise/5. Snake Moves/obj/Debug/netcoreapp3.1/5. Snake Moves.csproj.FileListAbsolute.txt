@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.pdb

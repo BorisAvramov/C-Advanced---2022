@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.pdb

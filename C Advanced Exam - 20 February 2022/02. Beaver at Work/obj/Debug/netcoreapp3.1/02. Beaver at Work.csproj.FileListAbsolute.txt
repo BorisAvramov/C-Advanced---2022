@@ -1,0 +1,22 @@
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.exe
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.deps.json
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.runtimeconfig.json
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.dll
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.pdb
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.AssemblyInfo.cs
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.dll
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.pdb

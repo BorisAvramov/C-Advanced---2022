@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.genruntimeconfig.cache

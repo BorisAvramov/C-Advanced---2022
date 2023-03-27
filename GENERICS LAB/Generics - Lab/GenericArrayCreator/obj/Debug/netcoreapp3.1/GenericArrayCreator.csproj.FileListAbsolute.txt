@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.genruntimeconfig.cache

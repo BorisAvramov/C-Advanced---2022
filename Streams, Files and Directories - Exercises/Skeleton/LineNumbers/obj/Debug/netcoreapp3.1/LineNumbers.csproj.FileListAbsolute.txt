@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb

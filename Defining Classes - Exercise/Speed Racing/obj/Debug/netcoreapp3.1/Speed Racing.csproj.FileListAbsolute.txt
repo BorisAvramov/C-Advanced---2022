@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.pdb

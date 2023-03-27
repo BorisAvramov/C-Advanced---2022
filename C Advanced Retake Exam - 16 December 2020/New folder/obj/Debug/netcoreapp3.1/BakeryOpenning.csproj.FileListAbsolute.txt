@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 16 December 2020\New folder\bin\Debug\netcoreapp3.1\BakeryOpenning.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 16 December 2020\New folder\bin\Debug\netcoreapp3.1\BakeryOpenning.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 16 December 2020\New folder\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 16 December 2020\New folder\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 16 December 2020\New folder\bin\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 16 December 2020\New folder\bin\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 16 December 2020\New folder\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 16 December 2020\New folder\obj\Debug\netcoreapp3.1\BakeryOpenning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 16 December 2020\New folder\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 16 December 2020\New folder\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 16 December 2020\New folder\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 16 December 2020\New folder\obj\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 16 December 2020\New folder\obj\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 16 December 2020\New folder\obj\Debug\netcoreapp3.1\BakeryOpenning.genruntimeconfig.cache

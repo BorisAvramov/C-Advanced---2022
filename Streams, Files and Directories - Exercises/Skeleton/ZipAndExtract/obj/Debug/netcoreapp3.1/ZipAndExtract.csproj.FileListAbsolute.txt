@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.pdb

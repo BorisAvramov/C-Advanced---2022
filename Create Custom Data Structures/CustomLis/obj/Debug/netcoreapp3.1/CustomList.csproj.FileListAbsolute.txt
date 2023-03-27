@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomLis\bin\Debug\netcoreapp3.1\CustomList.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomLis\bin\Debug\netcoreapp3.1\CustomList.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomLis\bin\Debug\netcoreapp3.1\CustomList.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomLis\bin\Debug\netcoreapp3.1\CustomList.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomLis\bin\Debug\netcoreapp3.1\CustomList.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomLis\bin\Debug\netcoreapp3.1\CustomList.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomLis\obj\Debug\netcoreapp3.1\CustomList.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomLis\obj\Debug\netcoreapp3.1\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomLis\obj\Debug\netcoreapp3.1\CustomList.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomLis\obj\Debug\netcoreapp3.1\CustomList.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomLis\obj\Debug\netcoreapp3.1\CustomList.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomLis\obj\Debug\netcoreapp3.1\CustomList.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomLis\obj\Debug\netcoreapp3.1\CustomList.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomLis\obj\Debug\netcoreapp3.1\CustomList.genruntimeconfig.cache

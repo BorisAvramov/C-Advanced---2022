@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jtqPfKl6FF2ygO3RtWcL+YCJxORCqF38y98dqcJVNHQF97gim5MiKtmkh2PTrYZqHZEWMpY8/bFJGJTihcLhoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\C# Advanced - януари 2022\\C Advanced Exam - 22 Feb 2020\\Guild\\Guild.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

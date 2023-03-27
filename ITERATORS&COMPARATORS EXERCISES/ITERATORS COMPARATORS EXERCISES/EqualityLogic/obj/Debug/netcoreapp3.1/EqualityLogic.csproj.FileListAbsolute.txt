@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\ITERATORS&COMPARATORS EXERCISES\ITERATORS COMPARATORS EXERCISES\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.genruntimeconfig.cache

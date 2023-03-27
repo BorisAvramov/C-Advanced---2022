@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomStac\bin\Debug\netcoreapp3.1\CustomStacк.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomStac\bin\Debug\netcoreapp3.1\CustomStacк.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomStac\bin\Debug\netcoreapp3.1\CustomStacк.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomStac\bin\Debug\netcoreapp3.1\CustomStacк.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomStac\bin\Debug\netcoreapp3.1\CustomStacк.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomStac\bin\Debug\netcoreapp3.1\CustomStacк.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomStac\obj\Debug\netcoreapp3.1\CustomStacк.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomStac\obj\Debug\netcoreapp3.1\CustomStacк.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomStac\obj\Debug\netcoreapp3.1\CustomStacк.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomStac\obj\Debug\netcoreapp3.1\CustomStacк.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomStac\obj\Debug\netcoreapp3.1\CustomStacк.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomStac\obj\Debug\netcoreapp3.1\CustomStacк.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomStac\obj\Debug\netcoreapp3.1\CustomStacк.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Create Custom Data Structures\CustomStac\obj\Debug\netcoreapp3.1\CustomStacк.genruntimeconfig.cache

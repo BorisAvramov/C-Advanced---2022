@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.pdb

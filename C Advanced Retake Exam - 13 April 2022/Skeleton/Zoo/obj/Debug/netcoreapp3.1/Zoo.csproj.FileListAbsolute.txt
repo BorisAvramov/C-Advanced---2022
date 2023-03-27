@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb

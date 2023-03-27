@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.pdb

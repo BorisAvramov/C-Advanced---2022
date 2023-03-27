@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Lab\01. Odd Lines\Skeleton\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Lab\01. Odd Lines\Skeleton\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Lab\01. Odd Lines\Skeleton\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Lab\01. Odd Lines\Skeleton\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Lab\01. Odd Lines\Skeleton\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Lab\01. Odd Lines\Skeleton\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Lab\01. Odd Lines\Skeleton\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Lab\01. Odd Lines\Skeleton\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Lab\01. Odd Lines\Skeleton\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Lab\01. Odd Lines\Skeleton\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Lab\01. Odd Lines\Skeleton\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.pdb

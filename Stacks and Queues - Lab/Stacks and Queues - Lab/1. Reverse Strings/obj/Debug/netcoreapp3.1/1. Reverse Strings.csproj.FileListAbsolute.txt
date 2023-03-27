@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.pdb

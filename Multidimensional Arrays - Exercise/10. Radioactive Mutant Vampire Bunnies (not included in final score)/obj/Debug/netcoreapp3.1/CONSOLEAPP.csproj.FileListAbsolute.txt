@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies (not included in final score)\bin\Debug\netcoreapp3.1\CONSOLEAPP.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies (not included in final score)\bin\Debug\netcoreapp3.1\CONSOLEAPP.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies (not included in final score)\bin\Debug\netcoreapp3.1\CONSOLEAPP.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies (not included in final score)\bin\Debug\netcoreapp3.1\CONSOLEAPP.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies (not included in final score)\bin\Debug\netcoreapp3.1\CONSOLEAPP.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies (not included in final score)\bin\Debug\netcoreapp3.1\CONSOLEAPP.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies (not included in final score)\obj\Debug\netcoreapp3.1\CONSOLEAPP.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies (not included in final score)\obj\Debug\netcoreapp3.1\CONSOLEAPP.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies (not included in final score)\obj\Debug\netcoreapp3.1\CONSOLEAPP.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies (not included in final score)\obj\Debug\netcoreapp3.1\CONSOLEAPP.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies (not included in final score)\obj\Debug\netcoreapp3.1\CONSOLEAPP.pdb

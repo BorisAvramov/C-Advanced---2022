@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.pdb

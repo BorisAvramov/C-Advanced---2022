@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.genruntimeconfig.cache

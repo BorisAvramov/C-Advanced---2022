@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 18 August 20211\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.genruntimeconfig.cache

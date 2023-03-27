@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Simple Calculator SECOND\bin\Debug\netcoreapp3.1\3. Simple Calculator SECOND.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Simple Calculator SECOND\bin\Debug\netcoreapp3.1\3. Simple Calculator SECOND.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Simple Calculator SECOND\bin\Debug\netcoreapp3.1\3. Simple Calculator SECOND.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Simple Calculator SECOND\bin\Debug\netcoreapp3.1\3. Simple Calculator SECOND.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Simple Calculator SECOND\bin\Debug\netcoreapp3.1\3. Simple Calculator SECOND.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Simple Calculator SECOND\bin\Debug\netcoreapp3.1\3. Simple Calculator SECOND.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Simple Calculator SECOND\obj\Debug\netcoreapp3.1\3. Simple Calculator SECOND.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Simple Calculator SECOND\obj\Debug\netcoreapp3.1\3. Simple Calculator SECOND.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Simple Calculator SECOND\obj\Debug\netcoreapp3.1\3. Simple Calculator SECOND.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\3. Simple Calculator SECOND\obj\Debug\netcoreapp3.1\3. Simple Calculator SECOND.pdb

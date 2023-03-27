@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.pdb

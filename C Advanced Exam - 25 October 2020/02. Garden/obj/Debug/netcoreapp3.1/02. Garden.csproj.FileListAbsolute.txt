@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\DefiningClasses4.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\DefiningClasses4.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\DefiningClasses4.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\DefiningClasses4.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\DefiningClasses4.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\DefiningClasses4.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\DefiningClasses4.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\DefiningClasses4.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\DefiningClasses4.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\DefiningClasses4.pdb

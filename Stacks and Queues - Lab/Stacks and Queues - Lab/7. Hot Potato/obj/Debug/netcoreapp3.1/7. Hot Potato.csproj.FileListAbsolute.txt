@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Stacks and Queues - Lab\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.pdb

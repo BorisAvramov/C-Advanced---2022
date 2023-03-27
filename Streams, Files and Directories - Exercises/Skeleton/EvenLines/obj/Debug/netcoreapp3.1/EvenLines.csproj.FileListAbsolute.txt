@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Streams, Files and Directories - Exercises\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.pdb

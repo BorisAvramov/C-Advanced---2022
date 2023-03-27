@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.pdb

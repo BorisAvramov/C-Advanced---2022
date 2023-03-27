@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\05. Filter By Age CORRECT WUTH CLASS\bin\Debug\netcoreapp3.1\05. Filter By Age CORRECT WUTH CLASS.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\05. Filter By Age CORRECT WUTH CLASS\bin\Debug\netcoreapp3.1\05. Filter By Age CORRECT WUTH CLASS.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\05. Filter By Age CORRECT WUTH CLASS\bin\Debug\netcoreapp3.1\05. Filter By Age CORRECT WUTH CLASS.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\05. Filter By Age CORRECT WUTH CLASS\bin\Debug\netcoreapp3.1\05. Filter By Age CORRECT WUTH CLASS.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\05. Filter By Age CORRECT WUTH CLASS\bin\Debug\netcoreapp3.1\05. Filter By Age CORRECT WUTH CLASS.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\05. Filter By Age CORRECT WUTH CLASS\bin\Debug\netcoreapp3.1\05. Filter By Age CORRECT WUTH CLASS.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\05. Filter By Age CORRECT WUTH CLASS\obj\Debug\netcoreapp3.1\05. Filter By Age CORRECT WUTH CLASS.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\05. Filter By Age CORRECT WUTH CLASS\obj\Debug\netcoreapp3.1\05. Filter By Age CORRECT WUTH CLASS.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\05. Filter By Age CORRECT WUTH CLASS\obj\Debug\netcoreapp3.1\05. Filter By Age CORRECT WUTH CLASS.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Lab\05. Filter By Age CORRECT WUTH CLASS\obj\Debug\netcoreapp3.1\05. Filter By Age CORRECT WUTH CLASS.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\10. SoftUni Parking (not included in final score) 2222\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\10. SoftUni Parking (not included in final score) 2222\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\10. SoftUni Parking (not included in final score) 2222\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\10. SoftUni Parking (not included in final score) 2222\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\10. SoftUni Parking (not included in final score) 2222\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\10. SoftUni Parking (not included in final score) 2222\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\10. SoftUni Parking (not included in final score) 2222\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\10. SoftUni Parking (not included in final score) 2222\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\10. SoftUni Parking (not included in final score) 2222\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\10. SoftUni Parking (not included in final score) 2222\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\10. SoftUni Parking (not included in final score) 2222\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.pdb

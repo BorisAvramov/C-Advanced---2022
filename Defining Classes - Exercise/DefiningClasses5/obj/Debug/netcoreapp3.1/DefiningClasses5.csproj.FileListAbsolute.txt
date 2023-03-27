@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses5\bin\Debug\netcoreapp3.1\DefiningClasses5.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses5\bin\Debug\netcoreapp3.1\DefiningClasses5.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses5\bin\Debug\netcoreapp3.1\DefiningClasses5.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses5\bin\Debug\netcoreapp3.1\DefiningClasses5.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses5\bin\Debug\netcoreapp3.1\DefiningClasses5.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses5\bin\Debug\netcoreapp3.1\DefiningClasses5.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses5\obj\Debug\netcoreapp3.1\DefiningClasses5.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses5\obj\Debug\netcoreapp3.1\DefiningClasses5.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses5\obj\Debug\netcoreapp3.1\DefiningClasses5.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses5\obj\Debug\netcoreapp3.1\DefiningClasses5.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Defining Classes - Exercise\DefiningClasses5\obj\Debug\netcoreapp3.1\DefiningClasses5.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\9. Miner SECOND WAY SIMPLE WAY\bin\Debug\netcoreapp3.1\9. Miner SECOND WAY SIMPLE WAY.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\9. Miner SECOND WAY SIMPLE WAY\bin\Debug\netcoreapp3.1\9. Miner SECOND WAY SIMPLE WAY.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\9. Miner SECOND WAY SIMPLE WAY\bin\Debug\netcoreapp3.1\9. Miner SECOND WAY SIMPLE WAY.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\9. Miner SECOND WAY SIMPLE WAY\bin\Debug\netcoreapp3.1\9. Miner SECOND WAY SIMPLE WAY.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\9. Miner SECOND WAY SIMPLE WAY\bin\Debug\netcoreapp3.1\9. Miner SECOND WAY SIMPLE WAY.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\9. Miner SECOND WAY SIMPLE WAY\bin\Debug\netcoreapp3.1\9. Miner SECOND WAY SIMPLE WAY.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\9. Miner SECOND WAY SIMPLE WAY\obj\Debug\netcoreapp3.1\9. Miner SECOND WAY SIMPLE WAY.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\9. Miner SECOND WAY SIMPLE WAY\obj\Debug\netcoreapp3.1\9. Miner SECOND WAY SIMPLE WAY.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\9. Miner SECOND WAY SIMPLE WAY\obj\Debug\netcoreapp3.1\9. Miner SECOND WAY SIMPLE WAY.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\9. Miner SECOND WAY SIMPLE WAY\obj\Debug\netcoreapp3.1\9. Miner SECOND WAY SIMPLE WAY.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Multidimensional Arrays - Exercise\9. Miner SECOND WAY SIMPLE WAY\obj\Debug\netcoreapp3.1\9. Miner SECOND WAY SIMPLE WAY.pdb

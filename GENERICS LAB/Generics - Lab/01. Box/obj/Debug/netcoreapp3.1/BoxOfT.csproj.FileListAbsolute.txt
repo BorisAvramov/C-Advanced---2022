@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\GENERICS LAB\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache

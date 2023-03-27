@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.genruntimeconfig.cache

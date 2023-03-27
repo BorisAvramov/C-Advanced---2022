@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\Func - Predicate - Actions - EXAMPLES\bin\Debug\netcoreapp3.1\Func - Predicate - Actions - EXAMPLES.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\Func - Predicate - Actions - EXAMPLES\bin\Debug\netcoreapp3.1\Func - Predicate - Actions - EXAMPLES.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\Func - Predicate - Actions - EXAMPLES\bin\Debug\netcoreapp3.1\Func - Predicate - Actions - EXAMPLES.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\Func - Predicate - Actions - EXAMPLES\bin\Debug\netcoreapp3.1\Func - Predicate - Actions - EXAMPLES.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\Func - Predicate - Actions - EXAMPLES\bin\Debug\netcoreapp3.1\Func - Predicate - Actions - EXAMPLES.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\Func - Predicate - Actions - EXAMPLES\bin\Debug\netcoreapp3.1\Func - Predicate - Actions - EXAMPLES.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\Func - Predicate - Actions - EXAMPLES\obj\Debug\netcoreapp3.1\Func - Predicate - Actions - EXAMPLES.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\Func - Predicate - Actions - EXAMPLES\obj\Debug\netcoreapp3.1\Func - Predicate - Actions - EXAMPLES.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\Func - Predicate - Actions - EXAMPLES\obj\Debug\netcoreapp3.1\Func - Predicate - Actions - EXAMPLES.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\Func - Predicate - Actions - EXAMPLES\obj\Debug\netcoreapp3.1\Func - Predicate - Actions - EXAMPLES.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\Func - Predicate - Actions - EXAMPLES\obj\Debug\netcoreapp3.1\Func - Predicate - Actions - EXAMPLES.pdb

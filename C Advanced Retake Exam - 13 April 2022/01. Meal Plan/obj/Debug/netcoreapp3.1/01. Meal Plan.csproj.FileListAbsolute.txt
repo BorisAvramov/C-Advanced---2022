@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\C Advanced Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.pdb

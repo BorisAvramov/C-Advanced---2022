@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.pdb

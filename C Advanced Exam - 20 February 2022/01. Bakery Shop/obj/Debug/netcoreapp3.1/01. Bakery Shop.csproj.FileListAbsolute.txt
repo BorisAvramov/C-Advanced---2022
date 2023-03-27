@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.exe
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.deps.json
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.runtimeconfig.json
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.dll
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.pdb
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.AssemblyInfo.cs
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.dll
+C:\Users\Dell\source\repos\C Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.pdb

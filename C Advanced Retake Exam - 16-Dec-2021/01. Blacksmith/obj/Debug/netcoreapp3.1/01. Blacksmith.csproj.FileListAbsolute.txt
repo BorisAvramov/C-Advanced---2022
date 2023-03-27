@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.exe
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.deps.json
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.runtimeconfig.json
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.dll
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.pdb
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.AssemblyInfo.cs
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.dll
+C:\Users\Dell\source\repos\C Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.pdb

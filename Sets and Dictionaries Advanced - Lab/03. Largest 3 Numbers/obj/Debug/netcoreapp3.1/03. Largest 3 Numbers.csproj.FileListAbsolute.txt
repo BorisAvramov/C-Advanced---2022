@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.pdb

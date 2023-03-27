@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\minValue\bin\Debug\netcoreapp3.1\minValue.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\minValue\bin\Debug\netcoreapp3.1\minValue.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\minValue\bin\Debug\netcoreapp3.1\minValue.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\minValue\bin\Debug\netcoreapp3.1\minValue.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\minValue\bin\Debug\netcoreapp3.1\minValue.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\minValue\bin\Debug\netcoreapp3.1\minValue.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\minValue\obj\Debug\netcoreapp3.1\minValue.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\minValue\obj\Debug\netcoreapp3.1\minValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\minValue\obj\Debug\netcoreapp3.1\minValue.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\minValue\obj\Debug\netcoreapp3.1\minValue.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\minValue\obj\Debug\netcoreapp3.1\minValue.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\minValue\obj\Debug\netcoreapp3.1\minValue.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\minValue\obj\Debug\netcoreapp3.1\minValue.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\SNIPPETS\minValue\obj\Debug\netcoreapp3.1\minValue.genruntimeconfig.cache

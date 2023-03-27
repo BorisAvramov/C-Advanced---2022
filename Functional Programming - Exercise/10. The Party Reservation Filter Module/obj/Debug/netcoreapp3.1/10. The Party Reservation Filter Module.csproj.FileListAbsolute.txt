@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.exe
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.deps.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.runtimeconfig.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.AssemblyInfo.cs
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.dll
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.pdb
+C:\Users\Dell\source\C# Advanced - януари 2022\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.csprojAssemblyReference.cache
